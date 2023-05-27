@@ -6,7 +6,7 @@ import '../styles/Characters.css';
 function Characters() {
   return (
     <div className='characters'>
-        <h1 className='character-title'>Our characters</h1>
+        <h1 className='character-title'>Game Heros</h1>
         <div className='character-list'>
             {CharacterList.map((character_item, key) => {
                 return (

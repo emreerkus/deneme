@@ -7,10 +7,10 @@ function Home() {
   return (
     <div className='home' style={{backgroundImage: `url(${BannerImage})`}}>
         <div className='headerContainer'>
-            <h1>Fighting With All</h1>
-            <p>A game to delight all of the enjoy of the one-to-one combat...</p>
+            <h1>Scream of Victory</h1>
+            <p>"A game to delight all of the enjoy"</p>
             <Link to="/Characters">
-                <button>Start to discovering our game!</button>
+                <button>Start to discovering our game by heros!</button>
             </Link>
         </div>
     </div>

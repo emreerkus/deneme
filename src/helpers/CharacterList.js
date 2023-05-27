@@ -8,32 +8,32 @@ import p6 from "../assets/p6.png";
 
 export const CharacterList = [
     {
-        name: "karakter1",
+        name: "Warrior1",
         image: p1,
         power: 10
     },
     {
-        name: "karakter2",
+        name: "Warrior2",
         image: p2,
         power: 20
     },
     {
-        name: "karakter3",
+        name: "Warrior3",
         image: p3,
         power: 30
     },
     {
-        name: "karakter4",
+        name: "Warrior4",
         image: p4,
         power: 40
     },
     {
-        name: "karakter5",
+        name: "Warrior5",
         image: p5,
         power: 50
     },
     {
-        name: "karakter6",
+        name: "Warrior6",
         image: p6,
         power: 60
     }

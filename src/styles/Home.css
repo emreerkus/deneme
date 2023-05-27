@@ -33,14 +33,14 @@
 }
   
 .headerContainer button {
-    color: rgb(24, 142, 252);
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     justify-content: center;
     background-color: #266ea5;
-    height: 50px;
-    width: 250px;
+    height: 80px;
+    width: 300px;
     color: white;
     text-decoration: none;
     font-size: 20px;
